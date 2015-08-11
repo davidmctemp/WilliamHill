@@ -1,0 +1,17 @@
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.ReaderService.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.Core.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Quartz.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Topshelf.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Topshelf.Quartz.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.Core.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Common.Logging.Core.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Quartz.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Quartz.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\obj\Debug\WilliamHill.ReaderService.csprojResolveAssemblyReference.cache
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\obj\Debug\WilliamHill.ReaderService.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.ReaderService.exe.config
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.ReaderService.exe
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\obj\Debug\WilliamHill.ReaderService.exe

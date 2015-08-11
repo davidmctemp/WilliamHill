@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Tests", "Willia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Service", "WilliamHill.Service\WilliamHill.Service.csproj", "{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1D606611-10F6-4EA7-9BBF-2F61CEA1D915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Data", "Core\WilliamHill.Data\WilliamHill.Data.csproj", "{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9BBDD7A1-9662-46FA-BB04-2FA742DD880C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.ReaderService", "WilliamHill.ReaderService\WilliamHill.ReaderService.csproj", "{9B0C638B-0523-4112-81FB-869023FBC6C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,8 +33,21 @@ Global
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A} = {1D606611-10F6-4EA7-9BBF-2F61CEA1D915}
+		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB} = {9BBDD7A1-9662-46FA-BB04-2FA742DD880C}
+		{9B0C638B-0523-4112-81FB-869023FBC6C0} = {9BBDD7A1-9662-46FA-BB04-2FA742DD880C}
 	EndGlobalSection
 EndGlobal
