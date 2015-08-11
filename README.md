@@ -1,2 +1,2 @@
 # WilliamHill
-Cosing test
+Coding test
