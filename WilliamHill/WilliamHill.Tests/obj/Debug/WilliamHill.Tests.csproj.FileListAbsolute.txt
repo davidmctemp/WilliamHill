@@ -23,3 +23,10 @@ C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\System.Web.We
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\obj\Debug\WilliamHill.Tests.csprojResolveAssemblyReference.cache
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\obj\Debug\WilliamHill.Tests.dll
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\obj\Debug\WilliamHill.Tests.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\Ninject.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\WebActivatorEx.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\WilliamHill.Service.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\Ninject.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Tests\bin\Debug\WilliamHill.Service.pdb

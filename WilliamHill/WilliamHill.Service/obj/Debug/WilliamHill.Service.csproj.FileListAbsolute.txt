@@ -1,0 +1,4 @@
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service\bin\Debug\WilliamHill.Service.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service\bin\Debug\WilliamHill.Service.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service\obj\Debug\WilliamHill.Service.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service\obj\Debug\WilliamHill.Service.pdb
