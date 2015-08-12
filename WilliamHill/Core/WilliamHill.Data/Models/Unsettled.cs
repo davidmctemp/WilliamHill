@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace WilliamHill.Data.Models
 {
-    public partial class Unsettled
+    public partial class UnSettled
     {
         public int ID { get; set; }
         public int Customer { get; set; }

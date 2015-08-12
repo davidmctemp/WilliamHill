@@ -18,7 +18,7 @@ namespace WilliamHill.Data
         }
 
         public DbSet<Settled> Settled { get; set; }
-        public DbSet<Unsettled> Unsettled { get; set; }
+        public DbSet<UnSettled> Unsettled { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

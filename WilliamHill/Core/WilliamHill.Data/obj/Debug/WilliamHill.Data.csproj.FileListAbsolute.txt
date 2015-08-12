@@ -7,4 +7,3 @@ C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFra
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.xml
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\obj\Debug\WilliamHill.Data.csprojResolveAssemblyReference.cache

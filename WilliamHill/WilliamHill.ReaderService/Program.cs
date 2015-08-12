@@ -11,6 +11,8 @@ namespace WilliamHill.ReaderService
     {
         private static int Main(string[] args)
         {
+            Mapping.AutoMapper.CreateMappings();
+
             return (int)HostFactory.Run(svc =>
             {
                 svc.UseNinject(new DependencyRegistration());

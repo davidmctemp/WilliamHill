@@ -7,7 +7,7 @@ using WilliamHill.Data.Models;
 
 namespace WilliamHill.Data.Repository
 {
-    public class SettledRepositiry : GenericRepository<Settled>, ISettledRepository
+    public class SettledRepository : GenericRepository<Settled>, ISettledRepository
     {
     }
 

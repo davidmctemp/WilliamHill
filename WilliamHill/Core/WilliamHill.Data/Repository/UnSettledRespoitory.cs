@@ -7,11 +7,11 @@ using WilliamHill.Data.Models;
 
 namespace WilliamHill.Data.Repository
 {
-    public class UnSettledRepositiry : GenericRepository<Unsettled>, IUnSettledRepository
+    public class UnSettledRepository : GenericRepository<UnSettled>, IUnSettledRepository
     {
     }
 
-    public interface IUnSettledRepository : IRepository<Unsettled>
+    public interface IUnSettledRepository : IRepository<UnSettled>
     {
     }
 }

@@ -3,7 +3,7 @@ using System.Data.Entity.ModelConfiguration;
 
 namespace WilliamHill.Data.Models.Mapping
 {
-    public class UnsettledMap : EntityTypeConfiguration<Unsettled>
+    public class UnsettledMap : EntityTypeConfiguration<UnSettled>
     {
         public UnsettledMap()
         {

@@ -9,6 +9,6 @@ namespace WilliamHill.ReaderService.Interfaces
     public interface IFileReader
     {
         BetItem GetBetItem(string line);
-        IList<BetItem> LoadAll(string fileName);
+        List<BetItem> LoadAll(string fileName);
     }
 }

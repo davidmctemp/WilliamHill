@@ -24,3 +24,7 @@ C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Willi
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.dll
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.Data.pdb
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\AutoMapper.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\AutoMapper.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.SqlServer.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.SqlServer.xml

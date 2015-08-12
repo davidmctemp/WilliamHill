@@ -50,8 +50,8 @@
     <Compile Include="Models\Mapping\SettledMap.cs" />
     <Compile Include="Models\Mapping\UnsettledMap.cs" />
     <Compile Include="Models\Settled.cs" />
-    <Compile Include="Models\Unsettled.cs" />
-    <Compile Include="Repository\SettledRepositiry.cs" />
+    <Compile Include="Models\UnSettled.cs" />
+    <Compile Include="Repository\SettledRepository.cs" />
     <Compile Include="Repository\UnSettledRespoitory.cs" />
     <Compile Include="WilliamHillContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
