@@ -2,6 +2,8 @@
 using System.Configuration;
 using Topshelf;
 using Topshelf.Quartz;
+using Topshelf.Ninject;
+using Topshelf.Quartz.Ninject;
 
 namespace WilliamHill.ReaderService
 {
@@ -11,6 +13,9 @@ namespace WilliamHill.ReaderService
         {
             return (int)HostFactory.Run(svc =>
             {
+                svc.UseNinject(new DependencyRegistration());
+                svc.UseQuartzNinject();
+
                 svc.ScheduleQuartzJobAsService(job =>
                 {
                     job

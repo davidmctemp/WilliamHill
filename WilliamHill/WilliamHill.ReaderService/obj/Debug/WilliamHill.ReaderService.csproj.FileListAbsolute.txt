@@ -15,3 +15,12 @@ C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\obj\Debug\Willi
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.ReaderService.exe.config
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.ReaderService.exe
 C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\obj\Debug\WilliamHill.ReaderService.exe
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Ninject.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Ninject.Extensions.Quartz.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Topshelf.Quartz.Ninject.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Ninject.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\Topshelf.Ninject.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.Data.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\WilliamHill.Data.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.ReaderService\bin\Debug\EntityFramework.xml

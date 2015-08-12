@@ -1,5 +1,10 @@
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\WilliamHill.Data.dll
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\WilliamHill.Data.pdb
-C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\obj\Debug\WilliamHill.Data.csprojResolveAssemblyReference.cache
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\obj\Debug\WilliamHill.Data.dll
 C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\obj\Debug\WilliamHill.Data.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\WilliamHill.Data.dll.config
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.dll
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.xml
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\WilliamHill\WilliamHill\WilliamHill\Core\WilliamHill.Data\obj\Debug\WilliamHill.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Model\bin\Debug\WilliamHill.Model.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Model\bin\Debug\WilliamHill.Model.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Model\obj\Debug\WilliamHill.Model.csprojResolveAssemblyReference.cache
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Model\obj\Debug\WilliamHill.Model.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Model\obj\Debug\WilliamHill.Model.pdb
