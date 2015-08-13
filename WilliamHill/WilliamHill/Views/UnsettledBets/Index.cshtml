@@ -3,7 +3,27 @@
     ViewBag.Title = "Unsettled Bets Risk Analysis";
 }
 
-<section class="success" id="about">
+<h2>Unsettled Bets</h2>
+<p>Unsettled Bets showing risk</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Bet ID</th>
+            <th>Concern</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.BetId</td>
+                <td>@customer.Concern</td>
+            </tr>               
+        }
+    </tbody>
+</table>
+
+@*<section class="success" id="about">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,4 +42,4 @@
             </div>
         </div>
     </div>
-</section>
+</section>*@
