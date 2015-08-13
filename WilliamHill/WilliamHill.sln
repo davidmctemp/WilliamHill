@@ -19,6 +19,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A4CB9E6F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Service.Tests", "WilliamHill.Service.Tests\WilliamHill.Service.Tests.csproj", "{BB347346-3BB0-41E2-873A-9F19B817140E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{3E4C559B-BF42-438C-9F8D-9FD0A8EE4253}"
+	ProjectSection(SolutionItems) = preProject
+		Database\WilliamHill-davidmc.bak = Database\WilliamHill-davidmc.bak
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
