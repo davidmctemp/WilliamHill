@@ -39,9 +39,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SettledRisk.cs" />
+    <Compile Include="Risk\Settled\ISettledBetRisk.cs" />
+    <Compile Include="Risk\Settled\WinningAtUnusualRate.cs" />
+    <Compile Include="Risk\UnSettled\IUnSettledBetRisk.cs" />
     <Compile Include="SettledBetService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnsettledBetService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\WilliamHill.Data\WilliamHill.Data.csproj">
+      <Project>{9f0b6bcc-fca7-48e9-a09c-1d7b1a28184a}</Project>
+      <Name>WilliamHill.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

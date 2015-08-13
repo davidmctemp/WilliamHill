@@ -11,6 +11,8 @@ namespace WilliamHill.App_Start
     using Ninject;
     using Ninject.Web.Common;
     using WilliamHill.Service;
+    using WilliamHill.Data.Repository;
+    using WilliamHill.Service.Risk.Settled;
 
     public static class NinjectWebCommon 
     {
@@ -64,6 +66,13 @@ namespace WilliamHill.App_Start
         {
             kernel.Bind<ISettledBetService>().To<SettledBetService>();
             kernel.Bind<IUnsettledBetService>().To<UnsettledBetService>();
+            kernel.Bind<ISettledRepository>().To<SettledRepository>();
+            kernel.Bind<IUnSettledRepository>().To<UnSettledRepository>();
+            
+            // Settled Risk analysis
+            kernel.Bind<ISettledBetRisk>().To<WinningAtUnusualRate>();
+
+
         }        
     }
 }

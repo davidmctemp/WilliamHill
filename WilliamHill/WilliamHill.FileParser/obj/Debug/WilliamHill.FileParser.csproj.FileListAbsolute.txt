@@ -1,0 +1,5 @@
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.FileParser\bin\Debug\WilliamHill.FileParser.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.FileParser\bin\Debug\WilliamHill.FileParser.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.FileParser\obj\Debug\WilliamHill.FileParser.csprojResolveAssemblyReference.cache
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.FileParser\obj\Debug\WilliamHill.FileParser.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.FileParser\obj\Debug\WilliamHill.FileParser.pdb

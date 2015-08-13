@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WilliamHill.Data.Repository;
-using WilliamHill.ReaderService.Interfaces;
+using WilliamHill.FileParser;
 
 namespace WilliamHill.ReaderService
 {

@@ -9,9 +9,11 @@ namespace WilliamHill.Data.Repository
 {
     public class SettledRepository : GenericRepository<Settled>, ISettledRepository
     {
+        
     }
 
     public interface ISettledRepository : IRepository<Settled>
     {
+        
     }
 }

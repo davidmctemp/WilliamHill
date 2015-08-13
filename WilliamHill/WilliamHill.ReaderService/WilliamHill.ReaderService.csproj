@@ -81,11 +81,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BetItem.cs" />
-    <Compile Include="CsvFileReader.cs" />
     <Compile Include="CsvReaderJob.cs" />
     <Compile Include="DependencyRegistration.cs" />
-    <Compile Include="Interfaces\IFileReader.cs" />
     <Compile Include="Mapping\AutoMapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,6 +98,10 @@
     <ProjectReference Include="..\Core\WilliamHill.Data\WilliamHill.Data.csproj">
       <Project>{9f0b6bcc-fca7-48e9-a09c-1d7b1a28184a}</Project>
       <Name>WilliamHill.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WilliamHill.FileParser\WilliamHill.FileParser.csproj">
+      <Project>{596225ee-568c-4a08-a27e-4e7dff3ddaa5}</Project>
+      <Name>WilliamHill.FileParser</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
