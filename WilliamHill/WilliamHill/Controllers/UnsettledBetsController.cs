@@ -9,9 +9,9 @@ namespace WilliamHill.Controllers
 {
     public class UnsettledBetsController : Controller
     {
-        private readonly IUnsettledBetService _unsettledBetsService;
+        private readonly IUnSettledBetService _unsettledBetsService;
 
-        public UnsettledBetsController(IUnsettledBetService unsettledBetsService)
+        public UnsettledBetsController(IUnSettledBetService unsettledBetsService)
         {
             _unsettledBetsService = unsettledBetsService;
         }
@@ -20,7 +20,8 @@ namespace WilliamHill.Controllers
         // GET: /UnsettledBets/
         public ActionResult Index()
         {
-            return View();
+            var results = _unsettledBetsService.AssessUnSettledBets();
+            return View(results);
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WilliamHill.Service.Risk.UnSettled;
 using DbModel = WilliamHill.Data.Models;
 
 namespace WilliamHill.Service.Risk.Settled

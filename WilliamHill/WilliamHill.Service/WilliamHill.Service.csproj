@@ -39,13 +39,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SettledRisk.cs" />
+    <Compile Include="Risk\Settled\SettledRisk.cs" />
     <Compile Include="Risk\Settled\ISettledBetRisk.cs" />
     <Compile Include="Risk\Settled\WinningAtUnusualRate.cs" />
+    <Compile Include="Risk\UnSettled\HigherThanAvergeStakes.cs" />
     <Compile Include="Risk\UnSettled\IUnSettledBetRisk.cs" />
+    <Compile Include="Risk\UnSettled\UnSettledRisk.cs" />
+    <Compile Include="Risk\UnSettled\WinOver1000.cs" />
     <Compile Include="SettledBetService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnsettledBetService.cs" />
+    <Compile Include="UnSettledBetService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Core\WilliamHill.Data\WilliamHill.Data.csproj">

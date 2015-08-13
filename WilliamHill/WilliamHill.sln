@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill", "WilliamHill\WilliamHill.csproj", "{9588F161-0778-4E6A-8D6F-D452DBBF0201}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Tests", "WilliamHill.Tests\WilliamHill.Tests.csproj", "{9A73D142-AA2C-4A50-A424-F26D3D9B1F6B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Service", "WilliamHill.Service\WilliamHill.Service.csproj", "{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1D606611-10F6-4EA7-9BBF-2F61CEA1D915}"
@@ -15,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.ReaderService", "WilliamHill.ReaderService\WilliamHill.ReaderService.csproj", "{9B0C638B-0523-4112-81FB-869023FBC6C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Model", "WilliamHill.Model\WilliamHill.Model.csproj", "{B4A45E05-3586-4273-9D8C-D82E2639452E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.FileParser", "WilliamHill.FileParser\WilliamHill.FileParser.csproj", "{596225EE-568C-4A08-A27E-4E7DFF3DDAA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A4CB9E6F-7DB6-408A-8055-8544069A520F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WilliamHill.Service.Tests", "WilliamHill.Service.Tests\WilliamHill.Service.Tests.csproj", "{BB347346-3BB0-41E2-873A-9F19B817140E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		{9588F161-0778-4E6A-8D6F-D452DBBF0201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9588F161-0778-4E6A-8D6F-D452DBBF0201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9588F161-0778-4E6A-8D6F-D452DBBF0201}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9A73D142-AA2C-4A50-A424-F26D3D9B1F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9A73D142-AA2C-4A50-A424-F26D3D9B1F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9A73D142-AA2C-4A50-A424-F26D3D9B1F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9A73D142-AA2C-4A50-A424-F26D3D9B1F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9ABFB4A-440D-4215-9A0C-04CCF6393DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,14 +41,14 @@ Global
 		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B0C638B-0523-4112-81FB-869023FBC6C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4A45E05-3586-4273-9D8C-D82E2639452E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4A45E05-3586-4273-9D8C-D82E2639452E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4A45E05-3586-4273-9D8C-D82E2639452E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4A45E05-3586-4273-9D8C-D82E2639452E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{596225EE-568C-4A08-A27E-4E7DFF3DDAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{596225EE-568C-4A08-A27E-4E7DFF3DDAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596225EE-568C-4A08-A27E-4E7DFF3DDAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596225EE-568C-4A08-A27E-4E7DFF3DDAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB347346-3BB0-41E2-873A-9F19B817140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB347346-3BB0-41E2-873A-9F19B817140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB347346-3BB0-41E2-873A-9F19B817140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB347346-3BB0-41E2-873A-9F19B817140E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +58,6 @@ Global
 		{9B0C638B-0523-4112-81FB-869023FBC6C0} = {9BBDD7A1-9662-46FA-BB04-2FA742DD880C}
 		{596225EE-568C-4A08-A27E-4E7DFF3DDAA5} = {9BBDD7A1-9662-46FA-BB04-2FA742DD880C}
 		{9F0B6BCC-FCA7-48E9-A09C-1D7B1A28184A} = {1D606611-10F6-4EA7-9BBF-2F61CEA1D915}
-		{B4A45E05-3586-4273-9D8C-D82E2639452E} = {1D606611-10F6-4EA7-9BBF-2F61CEA1D915}
+		{BB347346-3BB0-41E2-873A-9F19B817140E} = {A4CB9E6F-7DB6-408A-8055-8544069A520F}
 	EndGlobalSection
 EndGlobal

@@ -1,5 +1,6 @@
-﻿@{
-    ViewBag.Title = "Unsettled";
+﻿@model List<WilliamHill.Service.Risk.UnSettled.UnSettledRisk>
+@{
+    ViewBag.Title = "Unsettled Bets Risk Analysis";
 }
 
 <section class="success" id="about">
@@ -12,6 +13,12 @@
         <div class="row">
             <div class="col-lg-6">
                 <p>Details of Unsettled Bets - </p>
+                <ul>
+                    @foreach (var customer in Model)
+                    {
+                        <li>@customer.Concern</li>
+                    }
+                </ul>
             </div>
         </div>
     </div>

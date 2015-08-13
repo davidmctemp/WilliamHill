@@ -1,0 +1,15 @@
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Service.Tests.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Service.Tests.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\Moq.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\nunit.framework.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Data.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Service.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\EntityFramework.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Data.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\WilliamHill.Service.pdb
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\Moq.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\nunit.framework.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\bin\Debug\EntityFramework.xml
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\obj\Debug\WilliamHill.Service.Tests.csprojResolveAssemblyReference.cache
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\obj\Debug\WilliamHill.Service.Tests.dll
+C:\WilliamHill\WilliamHill\WilliamHill\WilliamHill.Service.Tests\obj\Debug\WilliamHill.Service.Tests.pdb

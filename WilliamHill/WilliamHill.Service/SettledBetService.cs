@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WilliamHill.Data.Repository;
 using WilliamHill.Service.Risk.Settled;
+using WilliamHill.Service.Risk.UnSettled;
 
 namespace WilliamHill.Service
 {

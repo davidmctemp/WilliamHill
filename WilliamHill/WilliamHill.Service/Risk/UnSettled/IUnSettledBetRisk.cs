@@ -9,6 +9,6 @@ namespace WilliamHill.Service.Risk.UnSettled
 {
     public interface IUnSettledBetRisk
     {
-        void AssessRisk(List<DbModel.UnSettled> bets);
+        List<UnSettledRisk> AssessRisk(List<DbModel.UnSettled> bets);
     }
 }

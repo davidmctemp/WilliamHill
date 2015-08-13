@@ -1,6 +1,6 @@
-﻿@model List<int>
+﻿@model List<WilliamHill.Service.Risk.UnSettled.SettledRisk>
 @{
-    ViewBag.Title = "Settled Bets";
+    ViewBag.Title = "Settled Bets Risk Analysis";
 }
 
 <section class="success" id="about">
@@ -12,11 +12,11 @@
         </div>
         <div class="row">
             <div class="col-xs-12">
-                <p>The Following Customers (Ids), have been have had > 60% win rate.</p>
+                <p>The Following Customers have been having a lot of luck lately....</p>
                 <ul>
-                    @foreach (var customerId in Model)
+                    @foreach (var customer in Model)
                     {
-                        <li>@customerId</li>
+                        <li>@customer.Concern</li>
                     }
                 </ul>
             </div>
